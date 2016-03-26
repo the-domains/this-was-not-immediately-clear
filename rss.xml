@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[This was not immediately clear ]]></title>
+        <description><![CDATA[This was not immediately clear ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 05:10:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Giger giger]]></title>
+            <description><![CDATA[<h1>Giger giger</h1>]]></description>
+            <link>undefinedgiger-giger/index.html</link>
+            <guid isPermaLink="false">2d178251-74d2-4d27-9c0e-5a7419256da6</guid>
+            <pubDate>Sat, 26 Mar 2016 05:10:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
