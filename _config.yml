@@ -1,0 +1,14 @@
+layout_spectrum: 0.4989991
+typography_spectrum: 0.1590905
+color:
+  saturation: 0.834415
+  lightness: 0.5277134
+  brandStrength: 0.5276596
+  brandColors:
+    - '#211F26'
+    - '#FFFFFF'
+    - '#CEC4B5'
+    - '#875E64'
+    - '#2F376F'
+  rhythmicContrast: 0.6165205
+name: 'This was not immediately clear '
